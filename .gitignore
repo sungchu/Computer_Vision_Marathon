@@ -54,3 +54,4 @@ Day028_Object Detection 程式導讀/輸入資料型態.ipynb
 Day035_YOLO 細節理解 - 損失函數/models/pretrain/yolo_tiny.ckpt
 Day032_YOLO 細節理解 - 損失函數/models/pretrain/yolo_tiny.ckpt
 Day034_YOLO 細節理解 - 網路架構程式碼解讀/models/pretrain/yolo_tiny.ckpt
+model_data/yolo.h5
